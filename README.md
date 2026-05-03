@@ -18,7 +18,6 @@
 
 ### 📊 GitHub 数据
 ![panyr2028's GitHub stats](https://github-readme-stats.vercel.app/api?username=panyr2028&show_icons=true&theme=vue&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panyr2028&layout=compact&theme=vue&hide_border=true)
 
 ### 🔥 数据分析项目（Pinned 展示）
 - **用户行为分析项目**：基于 Pandas 进行数据清洗、探索性分析、可视化展示
