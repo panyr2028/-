@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 潘怡如 (Yiru Pan)
+# 👋 Hi, I'm PanYiru
 
 <img align="right" src="https://cdn.jsdelivr.net/gh/rahul-jha98/github-readme-stats@master/anime.svg" height="180" />
 
