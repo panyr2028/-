@@ -5,18 +5,16 @@
 ### 👨‍💻 关于我
 - 🌱 专注于：**数据分析、数据建模、数据挖掘、可视化分析**
 - 💡 擅长用数据驱动决策，挖掘数据价值，构建预测模型
-- 📫 邮箱：可以在这里填你的邮箱
-- 🔗 数据作品集：https://github.com/panyr2028
+- 📫 邮箱：2706665222@qq.com
 
 ### 🛠 技术栈
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C语言](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-009688?style=flat&logo=plotly&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 📊 GitHub 数据
 ![panyr2028's GitHub stats](https://github-readme-stats.vercel.app/api?username=panyr2028&show_icons=true&theme=vue&hide_border=true)
