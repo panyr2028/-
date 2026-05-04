@@ -1,11 +1,10 @@
-# 👋 Hi, I'm PanYiru
+# 👋 Hi, I'm PanYR
 
 <img align="right" src="https://cdn.jsdelivr.net/gh/rahul-jha98/github-readme-stats@master/anime.svg" height="180" />
 
 ### 👨‍💻 关于我
 - 🌱 专注于：**数据分析、数据建模、数据挖掘、可视化分析**
 - 💡 擅长用数据驱动决策，挖掘数据价值，构建预测模型
-- 📫 邮箱：2706665222@qq.com
 
 ### 🛠 技术栈
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
